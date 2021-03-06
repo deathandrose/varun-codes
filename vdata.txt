@@ -1,0 +1,15 @@
+index,make,model,colour,direction,time
+1,yamaha,r15,blue,left,23/1/2020 7:15
+2,suzuki,gixxer,black,left,23/1/2020 10:30
+3,honda,cbr,black,right,25/1/2020 13:20
+4,honda,CD100,red,left,27/1/2020 18:50
+5,yamaha,r3,black,right,2/2/2020 20:00
+6,ktm,duke 200,orange,right,2/4/2020 20:01
+7,bajaj,ns200,white,right,1/4/2020 20:13
+8,honda,hornet,green,right,2/5/2020 20:56
+9,tvs,apache200,white,left,2/8/2020 20:58
+10,ktm,duke200,black,right,2/10/2020 20:59
+11,tvs,apache200,black,left,15/2/2020 21:30
+12,suzuki,intruder,red,left,28/2/2020 22:40
+13,yamaha,r6,blue,right,3/1/2020 23:00
+ 
